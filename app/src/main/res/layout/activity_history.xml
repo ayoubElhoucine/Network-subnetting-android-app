@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <android.support.design.widget.AppBarLayout
+            android:theme="@style/AppTheme.AppBarOverlay"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/history_toolbar"
+                android:background="?colorPrimary"
+                android:layout_width="fill_parent"
+                android:layout_height="?actionBarSize"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+            <android.support.design.widget.TabLayout
+                android:layout_gravity="center"
+                android:id="@+id/tab_history_view"
+                android:background="@color/colorPrimary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:tabIndicatorColor="@color/white"
+                app:tabIndicatorHeight="4.5dip"
+                app:tabMode="fixed"
+                app:tabTextColor="@color/white_transparent"
+                app:tabSelectedTextColor="@color/white" />
+        </android.support.design.widget.AppBarLayout>
+        <android.support.v4.view.ViewPager
+            android:layout_gravity="top"
+            android:id="@+id/history_view_pager"
+            android:background="@color/transparent"
+            android:padding="1.0dip"
+            android:scrollbars="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="2.0dip"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+    </LinearLayout>
+</LinearLayout>

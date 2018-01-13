@@ -1,3 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">VlsmTofaha</string>
+    <string name="action_settings">Settings</string>
+    <string name="setting">Setting</string>
+    <string name="address_range">Address range</string>
+    <string name="alldhcpservers">All DHCP servers</string>
+    <string name="allnodes">All nodes</string>
+    <string name="allntpservers">All NTP servers</string>
+    <string name="allriprouters">All RIP routers</string>
+    <string name="allrouters">All routers</string>
+    <string name="any_local">AnyLocal</string>
+    <string name="arabic">Arabic</string>
+    <string name="banner_id_1">ca-app-pub-9437941081453027/7398209842</string>
+    <string name="banner_id_2">ca-app-pub-9437941081453027/2215123786</string>
+    <string name="calculate">Calculate</string>
+    <string name="calculator">Calculator</string>
+    <string name="convert_to_binaryhex">Convert to Binary/Hex</string>
+    <string name="convert_to_decimalbinary">Convert to Decimal/Binary</string>
+    <string name="convert_to_decimalhex">Convert to Decimal/Hex</string>
+    <string name="converter">Converter</string>
+    <string name="custom_hex">Custom Hex</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete All</string>
+    <string name="desc_op_perc">percentage</string>
+    <string name="dialog_delete_history_msg">Are you sure you want to delete all history?</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="english">English</string>
+    <string name="eq">=</string>
+    <string name="err_bad_ip">Bad IP format</string>
+    <string name="err_ip_range">IP out of range</string>
+    <string name="french">French</string>
+    <string name="history">History</string>
+    <string name="icon">icon</string>
+    <string name="info">Info</string>
+    <string name="ip_address">IPv4 Address</string>
+    <string name="ip_binary">IP Binary</string>
+    <string name="ip_binary_netmask">IP Binary Netmask</string>
+    <string name="ip_decimal">IP Decimal</string>
+    <string name="ip_hex">IP Hex</string>
+    <string name="ipv6">IPv6</string>
+    <string name="ipv6_address">IPv6 Address</string>
+    <string name="link_local">LinkLocal</string>
+    <string name="loopback">Loopback</string>
+    <string name="lparen">(</string>
+    <string name="mappedipv4">Mapped IPv4</string>
+    <string name="maximum_addresses">Maximum addresses</string>
+    <string name="mcglobal">Multicast Global</string>
+    <string name="mclink_local">Multicast LinkLocal</string>
+    <string name="mcnode_local">Multicast NodeLocal</string>
+    <string name="mcorg_local">Multicast OrgLocal</string>
+    <string name="mcsite_local">Multicast SiteLocal</string>
+    <string name="multicast">Multicast</string>
+    <string name="nativ_ads">ca-app-pub-9437941081453027/6113527260</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="no">No</string>
+    <string name="number">Number</string>
+    <string name="text">Text</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+    <string name="title_activity_vlsm_result">VlsmResult</string>
+    <string name="wildcard">Wildcard</string>
+    <string name="yes">Yes</string>
+
 </resources>

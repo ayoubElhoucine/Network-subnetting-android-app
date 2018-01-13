@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Service">
+        <menu>
+            <item android:icon="@drawable/play_black" android:id="@+id/nav_tutorial" android:title="Tutorial" />
+            <item android:icon="@drawable/history_black" android:id="@+id/nav_history" android:title="History" />
+            <item android:icon="@drawable/setting_white" android:id="@+id/nav_setting" android:title="Setting" />
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item android:icon="@drawable/share_black" android:id="@+id/nav_share" android:title="Share" />
+        </menu>
+    </item>
+</menu>

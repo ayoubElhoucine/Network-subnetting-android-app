@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.clans:fab-1.6.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/8f1190a2b1fb88a4fc9ccb0c43f9fe50f571af70/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/8f1190a2b1fb88a4fc9ccb0c43f9fe50f571af70/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

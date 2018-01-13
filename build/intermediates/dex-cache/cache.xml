@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/615e355965cb70b00021034abd6480c8dfd2fbab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1505db7f6ca1a735f0386abf187447b3c183ca60/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/e73836c72f32c11157bb034f16cafa948f4d51ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de3eb4bc4882f8d87039e7d742a6095ce4730cff">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_0f7ea92579456f789f2a78a2219d023b3db08ba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/libs/arity-2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8eb09b5b5361ca0997fda3c9def6000db6b9375f">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/arity-2.1.2_d93bf360bd064d446704f6a607b7754dfe2295ff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.2/febfd2d9e89bde4c3a9723bcd9522cba96bddac7/dagger-2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.2_7a006c1a97638aff5b21dd1193af65fd96a5429d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/0a3af4c90be7f790bc22d33a94722968cecfc56e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fddd1fe53eb32bb39d4121d1812a72305f0d58c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_2c7de0b10d255458a0100a9fe68b8127aae81ec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/1f501c1593bbd96525e5c7502372e1eb0806bce0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_6017e2ed821205e92ca055489d1aa3292c6e02ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/e86a081cfc50d5c1f59a60d21cbb2a76b6a75260/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_4721c2514c1d5b8fd61f7bea2de9302372b7e8ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/f59ec964b3a15a672052a96029af3bce93192905/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7efdfa918e0fb035ef024169364d8d9fd05bd36b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/library-2.4.0_c123ba839689587ad45958ac5cfa3900a9721e58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/a40f6fc57e7d4967cab068b7c0cf9451748b0436/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a4eaaebbf8013af99511a48371f8cef06025960">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_f86dc013152fe7d06fbc3bb6fb40353c0517d9db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_0bc7a1709fd38922f90f75f56215205634620279/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/2fb221ccf281f00bb7be937861a03e2d6c056b22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd3621e031f4c9882ae543e9e2e91fc2cea7e1f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.3.1/dc06b7679496073ef4505005b4c5995f522503cd/gifdecoder-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dc06b7679496073ef4505005b4c5995f522503cd">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/gifdecoder-4.3.1_a0f83c0361f02a91029e7d1e5929245e3afe39dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.annimon/stream/1.1.2/fad6fa362ae0e3672b69be5d74aa039d1d1f3d9/stream-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fad6fa362ae0e3672b69be5d74aa039d1d1f3d9">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/stream-1.1.2_d2033a89c600f0d57866e5af537603a6f6923acd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/a40f6fc57e7d4967cab068b7c0cf9451748b0436/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a4eaaebbf8013af99511a48371f8cef06025960">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f86dc013152fe7d06fbc3bb6fb40353c0517d9db/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/d011b92802817ee1a69ad4ef3437500d18e085e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2cadea4d8a1a5b5c4e5f0dc99a99a43774f5e6e">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_0488422e54a7ef532f239fcd8cbc41ff187bf3a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.5/39a8ff2d1f79267907f5573c090b342b040b9682/aspectjrt-1.8.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39a8ff2d1f79267907f5573c090b342b040b9682">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/aspectjrt-1.8.5_c1e3f392b9fbfd25ee00cfd4910d3149f11ba1b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/2145898909c8e748b9c367cf2502336e9ffc58b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_9db0acd2cedc6cc2f5276238d8f3c8fdb8f5f3c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/f896b0abd697377be2184d91716e7ac3ef6024f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_29dc9f63d657bc7e135aef497b8030c6f6fb71b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/1e39a403ada8968af65452037457bd41dc00d231/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a7a5491118830eb62dd2d98dc23af37bfd99c55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/libs/arity-2.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8eb09b5b5361ca0997fda3c9def6000db6b9375f">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/2/arity-2.1.2_d93bf360bd064d446704f6a607b7754dfe2295ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/0b51babb730a120a88edcd397808da992ba4e2ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_82e86e533aa16879be5f869e16f6f23058f67b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/ad753d73cee6093f18eea6381d2be29ac9b77ef7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="00d8b1db49c6b3ccb71dcc6468faf0d7c5f1824c">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_3442942db700e21466b3835a812d487166a2f285.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.3.1/a786169ed0f768a589503844726f2380bb2139c/annotations-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a786169ed0f768a589503844726f2380bb2139c">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-4.3.1_8a2f38973477ae519b4b5d1cbdded7242f337e91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/e5af8c46e32e45e811ad96b141e150feff8f4ba5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bcc57ce199dd5c322d7a330f856d462032fc674e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_e9bb2d8c91a76e4d4b83c6fac3b379dbf41fbdbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.3.1/a786169ed0f768a589503844726f2380bb2139c/annotations-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a786169ed0f768a589503844726f2380bb2139c">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/annotations-4.3.1_8a2f38973477ae519b4b5d1cbdded7242f337e91.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/fb8e72420b2dac02e7ec7e0aa05d876a9b20181f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd1acbd38f759ef6b282cc5492335bd15fca43cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.2/febfd2d9e89bde4c3a9723bcd9522cba96bddac7/dagger-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/dagger-2.2_7a006c1a97638aff5b21dd1193af65fd96a5429d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_c123ba839689587ad45958ac5cfa3900a9721e58/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/okhttp-3.3.0_2c7de0b10d255458a0100a9fe68b8127aae81ec2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/9a1ec6f573059f01b282fd628c28c9bc696dfc0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e65e15d9a923b3a834925d89aa320f54156d5454/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/1f501c1593bbd96525e5c7502372e1eb0806bce0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6017e2ed821205e92ca055489d1aa3292c6e02ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/391c0fc408332e942b937cf2ffddd79c1bce625b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_6a85a6a3537d57c105a2e91586909013fd087d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/f59ec964b3a15a672052a96029af3bce93192905/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_7efdfa918e0fb035ef024169364d8d9fd05bd36b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/0a3af4c90be7f790bc22d33a94722968cecfc56e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_3fddd1fe53eb32bb39d4121d1812a72305f0d58c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/javax.inject-1_2cbe8aa90cd825173aed9af957ddb84024c74e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/b349f288b80a3a17f5638330b53a4fac568397bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_282be59868705bf4ef7f24710d40a782ef5b7d4d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.82.1/3e4f47bc60063111a375200f866192bf821efa93/realm-android-0.82.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e4f47bc60063111a375200f866192bf821efa93">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-android-0.82.1_580042ad7a5d4fa6fb0d0f6886083a89e8507955/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/c25a2a905f3a78343533cbec3e054ccf16cd2ff3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_458476284d5e0189d1e885508e3f8ba01af1b0a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/YouTubeAndroidPlayerApi_0bc7a1709fd38922f90f75f56215205634620279.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/881b7c63e140fc1975ae66803d5da178fcb304b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="003f59e51b07a10a2a7a0bd33c9eb0393c33b502">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fd59d78bfe90f93bb5011c620e7c7c59b7ed16d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_cfdb0dc195a697d1cb03becc9006c751fad3c811/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.3.1/dc06b7679496073ef4505005b4c5995f522503cd/gifdecoder-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dc06b7679496073ef4505005b4c5995f522503cd">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/gifdecoder-4.3.1_a0f83c0361f02a91029e7d1e5929245e3afe39dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/butterknife-annotations-8.0.1_4b576db4084c5727c18e615b6f30dac0365e4f11.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.jakewharton.hugo/hugo-annotations/1.2.1/b01150795c5cdca1eb7e501bf00f105ff0e31501/hugo-annotations-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b01150795c5cdca1eb7e501bf00f105ff0e31501">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/hugo-annotations-1.2.1_d6c7338a4a2210420c55f0eb90a8b08891127390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.annimon/stream/1.1.2/fad6fa362ae0e3672b69be5d74aa039d1d1f3d9/stream-1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fad6fa362ae0e3672b69be5d74aa039d1d1f3d9">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/stream-1.1.2_d2033a89c600f0d57866e5af537603a6f6923acd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/050bedc71fe0af9ba3ed93461aeef5794f880125/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b7c43c8ddfc4ae2091a33f2882927bb4e3e2fee2">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fef328f11e117ff1876644477e3134bac66d3bee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/f896b0abd697377be2184d91716e7ac3ef6024f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29dc9f63d657bc7e135aef497b8030c6f6fb71b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/709920ecf554208dfc9a46813ebce9d81f88d875/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66726c0592def3145050082f01214242c58994f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/2145898909c8e748b9c367cf2502336e9ffc58b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9db0acd2cedc6cc2f5276238d8f3c8fdb8f5f3c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/1e39a403ada8968af65452037457bd41dc00d231/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8040d53ecd4bd895360eafdc25e1c1cc9479e6aa">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_8a7a5491118830eb62dd2d98dc23af37bfd99c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/e296941f4a7bbc5245e2b7edd06a02aa0c868857/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_d1e8fc61e9c97ada0d60d599d9e38d69cc71807c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/converter-gson-2.1.0_e9bb2d8c91a76e4d4b83c6fac3b379dbf41fbdbb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/dff91dac64b8ca169c20d0e1de04c84c4ffea745/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b740b06667c79c6c19bde9f97038a39163c9ff0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/2ab5b6768c3aa5f62677c265f1eb7a54c71179df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f58c7d487add5c23ab3896de636b6ac878774a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/0b51babb730a120a88edcd397808da992ba4e2ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82e86e533aa16879be5f869e16f6f23058f67b12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/ad753d73cee6093f18eea6381d2be29ac9b77ef7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="00d8b1db49c6b3ccb71dcc6468faf0d7c5f1824c">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3442942db700e21466b3835a812d487166a2f285/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/8f1190a2b1fb88a4fc9ccb0c43f9fe50f571af70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cea2beb9dbacf31ae913518464b5317457ec52b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/391c0fc408332e942b937cf2ffddd79c1bce625b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="643a2fd3bd06c44be5d20efc0ba4ca02036d2c8a">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a85a6a3537d57c105a2e91586909013fd087d5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/fb8e72420b2dac02e7ec7e0aa05d876a9b20181f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_dd1acbd38f759ef6b282cc5492335bd15fca43cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/2ab5b6768c3aa5f62677c265f1eb7a54c71179df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_0f58c7d487add5c23ab3896de636b6ac878774a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/f7f163535e3f8c27cfb788dc9df44e49fa43974d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58e56e3918c8db0d19a37c9eb020645b29e3a681/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/e296941f4a7bbc5245e2b7edd06a02aa0c868857/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1e8fc61e9c97ada0d60d599d9e38d69cc71807c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/78b60da1c3c1a76631462146f07a01f7c8c25c42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca3df2a15bda55c1e4466f2ba8c09d1c4890eda3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/9a1ec6f573059f01b282fd628c28c9bc696dfc0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_e65e15d9a923b3a834925d89aa320f54156d5454.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.2_66ef460511c11edbae8c2275dc10ed94671f7410/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/b349f288b80a3a17f5638330b53a4fac568397bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f519b8c692038a47ee404b6ea6b847f6402000c">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_282be59868705bf4ef7f24710d40a782ef5b7d4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.82.1/3e4f47bc60063111a375200f866192bf821efa93/realm-android-0.82.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e4f47bc60063111a375200f866192bf821efa93">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/realm-android-0.82.1_580042ad7a5d4fa6fb0d0f6886083a89e8507955.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/c25a2a905f3a78343533cbec3e054ccf16cd2ff3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_458476284d5e0189d1e885508e3f8ba01af1b0a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_2cbe8aa90cd825173aed9af957ddb84024c74e97/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.3.1/9eaeaefa25c6ff18d7008f06208d41a261d8b29b/disklrucache-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9eaeaefa25c6ff18d7008f06208d41a261d8b29b">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/disklrucache-4.3.1_cfd8fa1bf56b73f1b359be42198a32b7dde87bdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/retrofit-2.1.0_cfdb0dc195a697d1cb03becc9006c751fad3c811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/881b7c63e140fc1975ae66803d5da178fcb304b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="003f59e51b07a10a2a7a0bd33c9eb0393c33b502">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_1fd59d78bfe90f93bb5011c620e7c7c59b7ed16d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/okio-1.8.0_db83d18aa8b355d607d5542bfe5dbeccff12b04a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.jakewharton.hugo/hugo-annotations/1.2.1/b01150795c5cdca1eb7e501bf00f105ff0e31501/hugo-annotations-1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b01150795c5cdca1eb7e501bf00f105ff0e31501">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/hugo-annotations-1.2.1_d6c7338a4a2210420c55f0eb90a8b08891127390.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.0.1_4b576db4084c5727c18e615b6f30dac0365e4f11/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/050bedc71fe0af9ba3ed93461aeef5794f880125/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b7c43c8ddfc4ae2091a33f2882927bb4e3e2fee2">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_fef328f11e117ff1876644477e3134bac66d3bee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/97f6492a1f7afafda49001a243721151294e9d3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c80b05a390e8319d1ef7a236739cd610c8f774">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_428bdb56880158427f747d26694a3972d734bec1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/709920ecf554208dfc9a46813ebce9d81f88d875/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bed98ea7af8c5c4202820875e856dd3eb296e22d">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_66726c0592def3145050082f01214242c58994f0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.3.1/9afb77c8712b19e421caecefe8e85e98ab327ce7/glide-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9afb77c8712b19e421caecefe8e85e98ab327ce7">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-4.3.1_db7fb2351d2aafb55457e44a225ab315d78bc953/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/dff91dac64b8ca169c20d0e1de04c84c4ffea745/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_1b740b06667c79c6c19bde9f97038a39163c9ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/gson-2.7_9cf506ed4d555319c7c4c6daa605fcb2461c3a86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/f7f163535e3f8c27cfb788dc9df44e49fa43974d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20d6aa9a18ea9833cd2bee95dff7cd303cdb80e4">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_58e56e3918c8db0d19a37c9eb020645b29e3a681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/615e355965cb70b00021034abd6480c8dfd2fbab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_1505db7f6ca1a735f0386abf187447b3c183ca60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/8f1190a2b1fb88a4fc9ccb0c43f9fe50f571af70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_3cea2beb9dbacf31ae913518464b5317457ec52b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/78b60da1c3c1a76631462146f07a01f7c8c25c42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_ca3df2a15bda55c1e4466f2ba8c09d1c4890eda3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/e73836c72f32c11157bb034f16cafa948f4d51ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de3eb4bc4882f8d87039e7d742a6095ce4730cff">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f7ea92579456f789f2a78a2219d023b3db08ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/e86a081cfc50d5c1f59a60d21cbb2a76b6a75260/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4721c2514c1d5b8fd61f7bea2de9302372b7e8ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6f96e0812b5be8a17e62b1474ee894f311d56cf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_db83d18aa8b355d607d5542bfe5dbeccff12b04a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.3.1/9eaeaefa25c6ff18d7008f06208d41a261d8b29b/disklrucache-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9eaeaefa25c6ff18d7008f06208d41a261d8b29b">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-4.3.1_cfd8fa1bf56b73f1b359be42198a32b7dde87bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/104c346a6f857177c9dd17e014aa083d61f1ad82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2bac9385ea008561a30419c09e9230a8681b3e09">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb479896e6c9bad9415093e9a61b1e8604563314/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.android/build-cache/d011b92802817ee1a69ad4ef3437500d18e085e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c2cadea4d8a1a5b5c4e5f0dc99a99a43774f5e6e">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0488422e54a7ef532f239fcd8cbc41ff187bf3a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/support-annotations-26.0.2_66ef460511c11edbae8c2275dc10ed94671f7410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/e5af8c46e32e45e811ad96b141e150feff8f4ba5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_bcc57ce199dd5c322d7a330f856d462032fc674e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_9cf506ed4d555319c7c4c6daa605fcb2461c3a86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4f2af8726def52a033953c2638e0ad92426a5cc3">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_16e70a6e62bbda9dff6c83ff25ca7773fc18fa5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.3.1/9afb77c8712b19e421caecefe8e85e98ab327ce7/glide-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9afb77c8712b19e421caecefe8e85e98ab327ce7">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/glide-4.3.1_db7fb2351d2aafb55457e44a225ab315d78bc953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/97f6492a1f7afafda49001a243721151294e9d3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c80b05a390e8319d1ef7a236739cd610c8f774">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_428bdb56880158427f747d26694a3972d734bec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ayoub/.android/build-cache/2fb221ccf281f00bb7be937861a03e2d6c056b22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6e6b94b72d7912a627fb1629c310b2bca9261f06">
+        <dex dex="/home/ayoub/AndroidStudioProjects/VlsmTofaha/app/build/intermediates/pre-dexed/release/classes_cd3621e031f4c9882ae543e9e2e91fc2cea7e1f3.jar" />
+    </item>
+
+</items>

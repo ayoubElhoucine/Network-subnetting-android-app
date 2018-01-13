@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@+id/ipv6_outer_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+            <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_marginLeft="15.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="15.0dip" android:layout_marginBottom="15.0dip">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                    <AutoCompleteTextView android:gravity="center" android:id="@+id/ipv6address" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="ip address" android:scrollHorizontally="true" android:singleLine="true" android:maxLength="15" android:digits="0123456789ABCDEF" android:layout_weight="1.0" android:inputType="textAutoComplete|textCapCharacters" />
+                    <Button
+                        android:id="@+id/ipv6reset"
+                        android:background="@drawable/reset_black"
+                        android:layout_width="45.0dip"
+                        android:layout_height="45.0dip" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:layout_marginBottom="10.0dip">
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="40.0dip">
+                    <Spinner android:gravity="center" android:id="@+id/ipv6subnetmasks" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_weight="0.7" android:layout_below="@+id/ipaddress" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <Button android:textColor="@color/colorPrimary" android:layout_gravity="center" android:id="@+id/ipv6calculate" android:background="@drawable/btn_blue_selector" android:layout_width="200.0dip" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="calculate" android:layout_below="@+id/subnetmask" />
+            <android.support.v7.widget.CardView android:id="@+id/ipv6_result" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="12.0dip">
+                <LinearLayout android:orientation="vertical" android:id="@+id/cidr_result" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <View android:background="@color/colorPrimaryDark" android:layout_width="fill_parent" android:layout_height="1.5dip" />
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="35.0dip">
+                        <View android:background="@color/colorPrimaryDark" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+                        <TextView android:textSize="16.0sp" android:textStyle="bold" android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="max" android:layout_weight="1.4" />
+                        <View android:background="@color/black_transparent" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+                        <TextView android:textSize="16.0sp" android:textStyle="bold" android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="range" android:layout_weight="1.0" android:layout_below="@+id/calculate" />
+                        <View android:background="@color/colorPrimaryDark" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+                    </LinearLayout>
+                    <View android:background="@color/black_transparent" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="120.0dip">
+                        <View android:background="@color/colorPrimaryDark" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+                        <TextView android:textSize="16.0sp" android:gravity="center" android:id="@+id/v6maximum_addresses" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="max" android:layout_weight="1.4" />
+                        <View android:background="@color/black_transparent" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+                        <TextView android:gravity="center" android:id="@+id/v6address_range" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="range" android:layout_weight="1.0" />
+                        <View android:background="@color/colorPrimaryDark" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+                    </LinearLayout>
+                    <View android:background="@color/colorPrimaryDark" android:layout_width="fill_parent" android:layout_height="1.5dip" />
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="30.0dip">
+                        <View android:background="@color/colorPrimaryDark" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+                        <TextView android:textSize="16.0sp" android:textStyle="bold" android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="information" android:layout_weight="1.0" android:layout_below="@+id/wildcard" />
+                        <View android:background="@color/colorPrimaryDark" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+                    </LinearLayout>
+                    <View android:background="@color/black_transparent" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="40.0dip">
+                        <View android:background="@color/colorPrimaryDark" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+                        <TextView android:textSize="16.0sp" android:id="@+id/v6info" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                        <View android:background="@color/colorPrimaryDark" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+                    </LinearLayout>
+                    <View android:background="@color/colorPrimaryDark" android:layout_width="fill_parent" android:layout_height="1.5dip" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
